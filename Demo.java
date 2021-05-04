@@ -6,6 +6,7 @@ public class Demo{
 		
 		System.out.println("Demo for Git ");
 		System.out.println("Demo for Git 2");
+		System.out.println("Demo for Git 3");
 	}
 }
 
