@@ -10,6 +10,8 @@ public class Demo{
 		System.out.println("Demo for Git 4");
 		System.out.println("Demo for Git 5");
 		System.out.println("Demo for Git 6");
+		System.out.println("Demo for Git 8");
+		System.out.println("Demo for Git 9");
 	}
 }
 
